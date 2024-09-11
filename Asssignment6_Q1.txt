@@ -1,0 +1,8 @@
+# Time (seconds) and Position (meters)
+# Time    Position
+0.0      0.0
+1.0      2.5
+2.0      9.8
+3.0      22.3
+4.0      40.0
+5.0      62.5
